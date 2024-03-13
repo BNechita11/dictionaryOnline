@@ -1,0 +1,22 @@
+﻿<Users>
+	<User>
+		<Username>Bianca</Username>
+		<Password>parola1</Password>
+		<Role>Administrator</Role>
+	</User>
+	<User>
+		<Username>Marius</Username>
+		<Password>parola2</Password>
+		<Role>Utilizator</Role>
+	</User>
+	<User>
+		<Username>Florina</Username>
+		<Password>parola3</Password>
+		<Role>Utilizator</Role>
+	</User>
+	<User>
+		<Username>Costel</Username>
+		<Password>parola4</Password>
+		<Role>Utilizator</Role>
+	</User>
+</Users>

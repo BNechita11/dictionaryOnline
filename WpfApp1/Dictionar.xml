@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionary>
+  <Word>
+    <Name>leopard</Name>
+    <Description>Animal carnivor din familia felinelor, cu blana de culoare gălbuie cu pete negre.</Description>
+    <Category>Animale</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/leopard.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>bufnita</Name>
+    <Description>Cea mai mare pasăre răpitoare de noapte.</Description>
+    <Category>Pasari</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/bufnita.webp</ImagePath>
+  </Word>
+  <Word>
+    <Name>palarie</Name>
+    <Description> Obiect folosit pentru acoperirea capului.</Description>
+    <Category>Vestimentatie</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/palarie.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>suc</Name>
+    <Description> Lichid conținut în substanțele vegetale, în special în fructe.</Description>
+    <Category>Lichide</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/suc.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>dinozaur</Name>
+    <Description> Reptilă fosilă uriașă din ordinul dinozaurienilor.</Description>
+    <Category>Reptile</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/dinozaur.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>sarpe</Name>
+    <Description>Ordin de reptile lipsite de membre, cu corpul cilindric.</Description>
+    <Category>Reptile</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/sarpe.png</ImagePath>
+  </Word>
+  <Word>
+    <Name>leu</Name>
+    <Description>Mamifer carnivor de talie mare din familia felidelor.</Description>
+    <Category>Animale</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/leu.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>randunea</Name>
+    <Description>Pasăre călătoare insectivoră cu coada adânc bifurcată.</Description>
+    <Category>Pasari</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/randunea.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>fular</Name>
+    <Description>Fâșie dreptunghiulară dintr-o țesătură care se poartă în jurul gâtului.</Description>
+    <Category>Vestimentatie</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/fular.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>cocktail</Name>
+    <Description>Amestec de băuturi alcoolice cu ingrediente.</Description>
+    <Category>Lichide</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/cocktail.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>picior</Name>
+    <Description> Fiecare dintre cele două membre inferioare ale corpului omenesc.</Description>
+    <Category>Corp Uman</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/no_image.jpg</ImagePath>
+  </Word>
+  <Word>
+    <Name>unghie</Name>
+    <Description>Lamă cornoasă care crește pe partea de deasupra a ultimei falange.</Description>
+    <Category>Corp Uman</Category>
+    <ImagePath>C:/Users/Nechita Bianca/Desktop/AN2/sem2/MAP/WpfApp1/WpfApp1/Poze/no_image.jpg</ImagePath>
+  </Word>
+</Dictionary>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfApp1.ModulAdministrativ"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="ModulAdministrativ" Height="450" Width="800"
+        Background="#FFC0CB">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Câmpuri pentru adăugarea de cuvinte -->
+        <Label Content="Cuvânt:" Grid.Row="0"/>
+        <TextBox x:Name="txtWord" Grid.Row="0" Margin="76,10,10,10"/>
+
+        <Label Content="Descriere:" Grid.Row="1"/>
+        <TextBox x:Name="txtDescription" Grid.Row="1" Margin="76,10,10,10"/>
+
+        <Label Content="Categorie:" Grid.Row="2"/>
+
+        <ComboBox x:Name="cmbCategory" Grid.Row="2" Margin="76,10,10,10" SelectionChanged="cmbCategory_SelectionChanged"/>
+
+
+        <!-- Butoane pentru acțiuni -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Left" Margin="214,5,0,15" Width="760">
+            <Button Content="Adăugare" Click="AddWord_Click" Height="94" Width="119" Background="Gray"/>
+            <Button Content="Modificare" Click="ModifyWord_Click" Margin="5" Height="94" Width="143" Background="Gray"/>
+            <Button Content="Ștergere" Click="DeleteWord_Click" Margin="5" Height="92" Width="117" Background="Gray"/>
+        </StackPanel>
+        <Button Content="Next" Click="NextButton_Click" Grid.Row="3" Grid.Column="0" Margin="610,232,10,0"/>
+        <Image Margin="0,113,594,-14" Source="/bgg.jpg" Stretch="Fill" Grid.Row="3"/>
+    </Grid>
+</Window>
